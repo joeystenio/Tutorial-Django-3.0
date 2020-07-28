@@ -3,6 +3,8 @@ Tutorial utilizado na disciplina PWEB do Bacharelado em Sistemas de Informação
 
 Documentação:
 
-<p>Escrevendo seu primeiro app Django, parte 1</p>
-<p>Escrevendo sua primeira aplicação Django, parte 2</p>
-<p>Escrevendo sua primeira app Django, parte 3</p>
+Elaboração das Partes de 01 ao 06
+
+Link das partes:
+
+https://docs.djangoproject.com/pt-br/3.0/intro/tutorial01/
