@@ -19,3 +19,7 @@ O que para um iniciante que apenas segue a receita do bolo... com certeza terá 
 $ django-admin startproject mysite
 
 A documentação presente no Ubuntu foi fundamental para a solução de erros ao tentar executar este comando logo no início da implementação. Esta documentação foi fundamental para solução de problemas ao instalar o Django e configurar adequadamente o ambiente, algo que ficou a desejar na documentação do prórpio Django.
+
+No tocante aos demais passos tudo pareceu mais simples...
+
+Lembrando claro de obedecer todas as regras e sintaxe do próprio Django. O que torna também um aprendizado novo a parte.
